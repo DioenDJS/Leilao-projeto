@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=DioenD&message=JS&color=d2cca1&labelColor=757780" alt="DioenD">
     <img src="https://img.shields.io/static/v1?label=Faculdade Senac Pelotas&message=3º&color=fdca40&labelColor=000000" alt="Faculdade Senac Pelotas">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/" >
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Leilao-projeto" >
 </p>
 
 <img src="NLWtogether06.png" alt="imagem do projeto">
@@ -45,6 +45,10 @@ Ao final a aplicação estará disponível em `http://localhost:3000`.
 > - bootswatch
 >
 >``npm i bootswatch``
+
+> - react-router-dom
+>
+>``npm i react-router-dom``
 ## utilizado no projeto :page_with_curl:
 
 - [Bootstrap](https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css)
