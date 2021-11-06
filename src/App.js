@@ -1,6 +1,7 @@
 import React from 'react';
 import Titulo from './components/Titulo';
 import ListaObras from './components/ListaObras';
+import Detalhes from './components/Detalhes';
 import {
   BrowserRouter as Router,
   Switch,
