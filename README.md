@@ -6,7 +6,7 @@
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Leilao-projeto" >
 </p>
 
-<img src="NLWtogether06.png" alt="imagem do projeto">
+<img src="imageProject.png" alt="imagem do projeto">
 
 
 ## Tecnologias Utilizadas no projeto :construction:
